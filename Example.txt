@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 Updated example.txt in MG24AIT023 branch.
+=======
+Completely rewritten content in MG24AIT021 branch.
+>>>>>>> MG24AIT021
